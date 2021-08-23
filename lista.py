@@ -11,5 +11,4 @@ print(students)
 print(len(students))
 students.clear()
 print(students)
-del students
-print(students)
+#del students
